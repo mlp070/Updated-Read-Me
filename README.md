@@ -1,9 +1,9 @@
 # test-Unit-Project-2 with markdown mayhem!
-this is a readme file for demo site. Made by mpb 3/6/24
+This is a readme file for the demo site. Made by mpb 3/6/24
 
   ## A Moment in Publishing
 
-<p> The road to privacy is virtually non-existent, it's an inherint open concept. </p>
+<p> The road to privacy is virtually non-existent; it's an inherent open concept. </p>
 
 
  ![image](https://github.com/mlp070/test-Unit-Project-2/assets/162502952/c789ed2b-d9b6-4c67-84a0-b5c8d495f8fc)
@@ -16,11 +16,7 @@ this is a readme file for demo site. Made by mpb 3/6/24
 
   #### Publishing Now 
   
-  <p> It's the fastest and most effectiveand creative ways to achieve communication.
- <p> It's where the creative process intersects with expression, and individuals can share to the end.</p>
+  <p> It's the fastest, most effective and creative ways to achieve communication.
+ <p> It's where the creative process intersects with expression, and individuals can share.</p>
  
 ![image](https://github.com/mlp070/test-Unit-Project-2/assets/162502952/b6837f24-f621-41e6-a11e-b586e2e87919)
-
-
- <p> TEST PAGE </p>
- 
