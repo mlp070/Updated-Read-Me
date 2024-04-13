@@ -1,5 +1,5 @@
-# test-Unit-Project-2 with markdown mayhem!
-This is a readme file for the demo site. Made by mpb 3/6/24
+# Test-Unit-Project-2 with Markdown Mayhem!
+This is a readme file for the Demo Site. Made by mpb 3/6/24
 
   ## A Moment in Publishing
 
@@ -16,7 +16,7 @@ This is a readme file for the demo site. Made by mpb 3/6/24
 
   #### Publishing Now 
   
-  <p> It's the fastest, most effective and creative ways to achieve communication.
+  <p> It's the fastest, most effective and creative way to achieve communication.
  <p> It's where the creative process intersects with expression, and individuals can share.</p>
  
 ![image](https://github.com/mlp070/test-Unit-Project-2/assets/162502952/b6837f24-f621-41e6-a11e-b586e2e87919)
